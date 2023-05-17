@@ -1,2 +1,2 @@
-Anjali Khandekar porfolio
+Anjali Khandekar portfolio
 
