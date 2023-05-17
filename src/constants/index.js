@@ -46,15 +46,15 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Angular Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Java Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Full Stack Developer(Angular +Spring Boot)",
     icon: creator,
   },
 ];
@@ -76,14 +76,14 @@ const technologies = [
     name: "TypeScript",
     icon: typescript,
   },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
+  // {
+  //   name: "React JS",
+  //   icon: reactjs,
+  // },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
   {
     name: "Tailwind CSS",
     icon: tailwind,
@@ -93,7 +93,7 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
+    name: "Mysql",
     icon: mongodb,
   },
   {
@@ -116,52 +116,52 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Java Developer",
+    company_name: "Infiniteworx Omnichannel Pvt Ltd",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Sept 2017 - March 2021",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Java and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Java Developer",
+    company_name: "Saksoft Limited",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jan 2022 - August 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Spring boot Hibernate with microservices and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Web Developer",
+  //   company_name: "Shopify",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "Jan 2022 - Jan 2023",
+  //   points: [
+  //     "Developing and maintaining web applications using React.js and other related technologies.",
+  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
   {
     title: "Full stack Developer",
-    company_name: "Meta",
+    company_name: "Yash Technologies",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "August 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using Spring boot Hibernate with microservices and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -198,67 +198,67 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "MyRetailworx",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "This application is developed for the retail shop/grocers. Consumer can purchase grocery online through app counter at shop.Grocer is responsible for shop, Order, Inventory, Helper, Packing, Road Runner and Delivery.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "react",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "mongodb",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "tailwind",
+      //   color: "pink-text-gradient",
+      // },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    // image: carrent,
+    // source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Neo Application",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This application is developed for the customers which is related to forecasting the data. We analysis the data and gives some approximation around the sales data and history data.",
     tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "react",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "restapi",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "scss",
+      //   color: "pink-text-gradient",
+      // },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    // image: jobit,
+    // source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "API Marketplace",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+   "API Market is a software in which all the API are consumes in one portal.And technology used is spring Boot hibernate with microservices and frontend AngularJs",
     tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "nextjs",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "supabase",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "css",
+      //   color: "pink-text-gradient",
+      // },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    // image: tripguide,
+    // source_code_link: "https://github.com/",
   },
 ];
 
